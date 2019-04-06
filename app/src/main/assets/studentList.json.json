@@ -1,0 +1,27 @@
+[
+    {
+        "sid":"1",
+        "sname":"gurminder",
+        "gender":"female"
+    },
+    {
+        "sid":"2",
+        "sname":"Kiran",
+        "gender":"female"
+    },
+    {
+        "sid":"3",
+        "sname":"samir",
+        "gender":"male"
+    },
+    {
+        "sid":4,
+        "sname":"suniel",
+        "gender":"male"
+    },
+    {
+        "sid":5,
+        "sname":"suniela",
+        "gender":"female"
+    }
+]
